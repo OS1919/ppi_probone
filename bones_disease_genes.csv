@@ -1,0 +1,606 @@
+gene	group_number	group_description
+FGFR3	1	FGFR3 chondrodysplasias
+COL2A1	2	Type 2 collagen disorders
+COL11A1	3	Type 11 collagen disorders
+COL11A2	3	Type 11 collagen disorders
+SLC26A2	4	Sulfation disorders
+PAPSS2	4	Sulfation disorders
+IMPAD1	4	Sulfation disorders
+CHST3	4	Sulfation disorders
+SLC35B2	4	Sulfation disorders
+CHST14	4	Sulfation disorders
+DSE	4	Sulfation disorders
+CHST11	4	Sulfation disorders
+HS2ST1	4	Sulfation disorders
+XYLT1	5	Dysplasias with multiple joint dislocations
+CANT1	5	Dysplasias with multiple joint dislocations
+KIF22	5	Dysplasias with multiple joint dislocations
+EXOC6B	5	Dysplasias with multiple joint dislocations
+B3GALT6	5	Dysplasias with multiple joint dislocations
+B4GALT7	5	Dysplasias with multiple joint dislocations
+B3GAT3	5	Dysplasias with multiple joint dislocations
+CSGALNACT1	5	Dysplasias with multiple joint dislocations
+SLC10A7	5	Dysplasias with multiple joint dislocations
+FLNA	6	Filamins and related disorders
+MAP3K7	6	Filamins and related disorders
+TAB2	6	Filamins and related disorders
+FLNB	6	Filamins and related disorders
+RFLNA	6	Filamins and related disorders
+MYH3	6	Filamins and related disorders
+SH3PXD2B	6	Filamins and related disorders
+HSPG2	7	Proteoglycan core proteins disorders
+ACAN	7	Proteoglycan core proteins disorders
+BGN	7	Proteoglycan core proteins disorders
+TRPV4	8	TRPV4 disorders
+AD	9	Pseudoachondroplasia and the multiple epiphyseal dysplasias
+AR	9	Pseudoachondroplasia and the multiple epiphyseal dysplasias
+DYNC2H1	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+IFT80	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+IFT81	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+WDR34	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+WDR60	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+DYNC2LI1	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+NEK1	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+IFT122	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+WDR19	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+INTU	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+TRAF3IP1	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+CILK1	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+TCTEX1D2	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+IFT140	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+TTC21B	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+WDR35	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+IFT43	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+IFT172	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+IFT52	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+CFAP410	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+CEP120	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+KIAA0586	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+GRK2	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+KIAA0753	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+EVC1	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+EVC2	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+GLI1	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+SMO	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+TCTN3	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+IFT40	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+CSPP1	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+PRKACA	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+PRKACB	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+MKS1	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+TMEM216	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+TMEM67	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+CEP290	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+RPGRIP1L	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+CC2D2A	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
+COL10A1	11	Metaphyseal dysplasias
+RMRP	11	Metaphyseal dysplasias
+POP1	11	Metaphyseal dysplasias
+NEPRO	11	Metaphyseal dysplasias
+SBDS	11	Metaphyseal dysplasias
+EFL1	11	Metaphyseal dysplasias
+DNAJC21	11	Metaphyseal dysplasias
+SRP54	11	Metaphyseal dysplasias
+MMP13	11	Metaphyseal dysplasias
+MMP9	11	Metaphyseal dysplasias
+RUNX2	11	Metaphyseal dysplasias
+ACP5	12	Spondylometaphyseal dysplasias (SMD)
+TRIP11	12	Spondylometaphyseal dysplasias (SMD)
+FN1	12	Spondylometaphyseal dysplasias (SMD)
+PCYT1A	12	Spondylometaphyseal dysplasias (SMD)
+PLCB3	12	Spondylometaphyseal dysplasias (SMD)
+HHAT	12	Spondylometaphyseal dysplasias (SMD)
+TRAPPC2	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+EIF2AK3	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+DYM	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+RAB33B	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+BNIP1	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+MATN3	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+DDRGK1	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+AIFM1	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+RSPRY1	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+TMEM165	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+PISD	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+UFSP2	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+DDR2	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+SMARCAL1	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+EXTL3	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+PGM3	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+NANS	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+RPL13	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+MBTPS1	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+NBAS	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+RINT1	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+SLC39A13	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+TONSL	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+NMNAT1	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+LTBP3	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+LONP1	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+HSPA9	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+IARS2	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+COL27A1	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+LBR	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+GNPNAT1	13	Spondyloepi(meta)physeal dysplasias (SE(M)D)
+TRIP11	14	Severe spondylodysplastic dysplasias
+SLC35D1	14	Severe spondylodysplastic dysplasias
+GPX4	14	Severe spondylodysplastic dysplasias
+SBDS	14	Severe spondylodysplastic dysplasias
+INPPL1	14	Severe spondylodysplastic dysplasias
+PAM16	14	Severe spondylodysplastic dysplasias
+ALG9	14	Severe spondylodysplastic dysplasias
+SHOX	15	Mesomelic and rhizo‐mesomelic dysplasias
+GPC6	15	Mesomelic and rhizo‐mesomelic dysplasias
+WNT5A	15	Mesomelic and rhizo‐mesomelic dysplasias
+DVL1	15	Mesomelic and rhizo‐mesomelic dysplasias
+DVL3	15	Mesomelic and rhizo‐mesomelic dysplasias
+FZD2	15	Mesomelic and rhizo‐mesomelic dysplasias
+ROR2	15	Mesomelic and rhizo‐mesomelic dysplasias
+NXN	15	Mesomelic and rhizo‐mesomelic dysplasias
+HOXD	15	Mesomelic and rhizo‐mesomelic dysplasias
+SULF1	15	Mesomelic and rhizo‐mesomelic dysplasias
+SLCO5A1	15	Mesomelic and rhizo‐mesomelic dysplasias
+ID4	15	Mesomelic and rhizo‐mesomelic dysplasias
+AFF3	15	Mesomelic and rhizo‐mesomelic dysplasias
+MAB21L2	15	Mesomelic and rhizo‐mesomelic dysplasias
+NPR2	16	Acromesomelic dysplasias
+PRKG2	16	Acromesomelic dysplasias
+GDF5	16	Acromesomelic dysplasias
+BMPR1B	16	Acromesomelic dysplasias
+IHH	17	Acromelic dysplasias
+ADAMTSL2	17	Acromelic dysplasias
+FBN1	17	Acromelic dysplasias
+LTBP3	17	Acromelic dysplasias
+ADAMTS10	17	Acromelic dysplasias
+ADAMTS17	17	Acromelic dysplasias
+LTBP2	17	Acromelic dysplasias
+SMAD4	17	Acromelic dysplasias
+PDE4D	17	Acromelic dysplasias
+PRKAR1A	17	Acromelic dysplasias
+GNAS	17	Acromelic dysplasias
+8q22.1	17	Acromelic dysplasias
+MIR140	17	Acromelic dysplasias
+IHH	18	Brachydactylies (isolated)
+BMPR1B	18	Brachydactylies (isolated)
+BMP2	18	Brachydactylies (isolated)
+GDF5	18	Brachydactylies (isolated)
+ROR2	18	Brachydactylies (isolated)
+NOG	18	Brachydactylies (isolated)
+HOXD13	18	Brachydactylies (isolated)
+KCNJ2	18	Brachydactylies (isolated)
+2q35‐36	18	Brachydactylies (isolated)
+TRPS1	19	Brachydactylies as part of syndromes
+EXT1	19	Brachydactylies as part of syndromes
+TGDS	19	Brachydactylies as part of syndromes
+TBC1D24	19	Brachydactylies as part of syndromes
+HDAC4	19	Brachydactylies as part of syndromes
+PIGV	19	Brachydactylies as part of syndromes
+PDE3A	19	Brachydactylies as part of syndromes
+PRMT7	19	Brachydactylies as part of syndromes
+MYCN	19	Brachydactylies as part of syndromes
+HOXA13	19	Brachydactylies as part of syndromes
+CREBBP	19	Brachydactylies as part of syndromes
+EP300	19	Brachydactylies as part of syndromes
+CHSY1	19	Brachydactylies as part of syndromes
+ERF	19	Brachydactylies as part of syndromes
+GPC4	19	Brachydactylies as part of syndromes
+ARID1A	19	Brachydactylies as part of syndromes
+ARID1B	19	Brachydactylies as part of syndromes
+SMARCB1	19	Brachydactylies as part of syndromes
+SMARCA4	19	Brachydactylies as part of syndromes
+SMARCE1	19	Brachydactylies as part of syndromes
+LMNA	19	Brachydactylies as part of syndromes
+SOX9	20	Bent bones dysplasia group
+LIFR	20	Bent bones dysplasia group
+IL6ST	20	Bent bones dysplasia group
+KIF5B	20	Bent bones dysplasia group
+FGFR2	20	Bent bones dysplasia group
+LAMA5	20	Bent bones dysplasia group
+CUL7	21	Primordial dwarfism and slender bones group
+OBSL1	21	Primordial dwarfism and slender bones group
+CCDC8	21	Primordial dwarfism and slender bones group
+TBCE	21	Primordial dwarfism and slender bones group
+FAM111A	21	Primordial dwarfism and slender bones group
+RNU4ATAC	21	Primordial dwarfism and slender bones group
+PCNT	21	Primordial dwarfism and slender bones group
+ATR	21	Primordial dwarfism and slender bones group
+RBBP8	21	Primordial dwarfism and slender bones group
+CEP152	21	Primordial dwarfism and slender bones group
+DNA2	21	Primordial dwarfism and slender bones group
+TRAIP	21	Primordial dwarfism and slender bones group
+NSMCE2	21	Primordial dwarfism and slender bones group
+CENPE	21	Primordial dwarfism and slender bones group
+CRIPT	21	Primordial dwarfism and slender bones group
+XRCC4	21	Primordial dwarfism and slender bones group
+DONSON	21	Primordial dwarfism and slender bones group
+CDKN1C	21	Primordial dwarfism and slender bones group
+POLE	21	Primordial dwarfism and slender bones group
+COG4	21	Primordial dwarfism and slender bones group
+SCUBE3	21	Primordial dwarfism and slender bones group
+ORC1	21	Primordial dwarfism and slender bones group
+ORC4	21	Primordial dwarfism and slender bones group
+ORC6	21	Primordial dwarfism and slender bones group
+CDT1	21	Primordial dwarfism and slender bones group
+CDC6	21	Primordial dwarfism and slender bones group
+CDC45	21	Primordial dwarfism and slender bones group
+MCM3	21	Primordial dwarfism and slender bones group
+MCM5	21	Primordial dwarfism and slender bones group
+MCM7	21	Primordial dwarfism and slender bones group
+GMNN	21	Primordial dwarfism and slender bones group
+GINS2	21	Primordial dwarfism and slender bones group
+IDUA	22	Lysosomal storage diseases with skeletal involvement
+IDS	22	Lysosomal storage diseases with skeletal involvement
+SGSH	22	Lysosomal storage diseases with skeletal involvement
+NAGLU	22	Lysosomal storage diseases with skeletal involvement
+HSGNAT	22	Lysosomal storage diseases with skeletal involvement
+GNS	22	Lysosomal storage diseases with skeletal involvement
+GALNS	22	Lysosomal storage diseases with skeletal involvement
+ARSB	22	Lysosomal storage diseases with skeletal involvement
+GUSB	22	Lysosomal storage diseases with skeletal involvement
+ARSK	22	Lysosomal storage diseases with skeletal involvement
+VPS33A	22	Lysosomal storage diseases with skeletal involvement
+FUCA	22	Lysosomal storage diseases with skeletal involvement
+MAN2B1	22	Lysosomal storage diseases with skeletal involvement
+MANBA	22	Lysosomal storage diseases with skeletal involvement
+AGA	22	Lysosomal storage diseases with skeletal involvement
+GLB1	22	Lysosomal storage diseases with skeletal involvement
+NEU1	22	Lysosomal storage diseases with skeletal involvement
+PPGB	22	Lysosomal storage diseases with skeletal involvement
+SLC17A5	22	Lysosomal storage diseases with skeletal involvement
+SUMF1	22	Lysosomal storage diseases with skeletal involvement
+GNPTAB	22	Lysosomal storage diseases with skeletal involvement
+GNPTG	22	Lysosomal storage diseases with skeletal involvement
+CGAF	22	Lysosomal storage diseases with skeletal involvement
+GBA	22	Lysosomal storage diseases with skeletal involvement
+ARSE	23	Chondrodysplasia punctata (CDP) group
+EBP	23	Chondrodysplasia punctata (CDP) group
+NSDHL	23	Chondrodysplasia punctata (CDP) group
+MGP	23	Chondrodysplasia punctata (CDP) group
+LBR	23	Chondrodysplasia punctata (CDP) group
+PEX7	23	Chondrodysplasia punctata (CDP) group
+DHPAT	23	Chondrodysplasia punctata (CDP) group
+AGPS	23	Chondrodysplasia punctata (CDP) group
+FAR1	23	Chondrodysplasia punctata (CDP) group
+PEX5	23	Chondrodysplasia punctata (CDP) group
+TCIRG1	24	Osteopetrosis and related osteoclast disorders
+SNX10	24	Osteopetrosis and related osteoclast disorders
+OSTM1	24	Osteopetrosis and related osteoclast disorders
+TNFRSF11A	24	Osteopetrosis and related osteoclast disorders
+TNFSF11	24	Osteopetrosis and related osteoclast disorders
+PLEKHM1	24	Osteopetrosis and related osteoclast disorders
+CLCN7	24	Osteopetrosis and related osteoclast disorders
+CA2	24	Osteopetrosis and related osteoclast disorders
+IKBKG	24	Osteopetrosis and related osteoclast disorders
+SLC4A2	24	Osteopetrosis and related osteoclast disorders
+FERMT3	24	Osteopetrosis and related osteoclast disorders
+RASGRP2	24	Osteopetrosis and related osteoclast disorders
+LRRK1	24	Osteopetrosis and related osteoclast disorders
+CTSK	24	Osteopetrosis and related osteoclast disorders
+SLC29A3	24	Osteopetrosis and related osteoclast disorders
+CSF1R	24	Osteopetrosis and related osteoclast disorders
+DHCR24	25	Osteosclerotic disorders
+FAM20C	25	Osteosclerotic disorders
+COL1A1	25	Osteosclerotic disorders
+LEMD3	25	Osteosclerotic disorders
+MAP2K1	25	Osteosclerotic disorders
+AMER1	25	Osteosclerotic disorders
+SFRP4	25	Osteosclerotic disorders
+ANKH	25	Osteosclerotic disorders
+GJA1	25	Osteosclerotic disorders
+TGFB1	25	Osteosclerotic disorders
+GALNT3	25	Osteosclerotic disorders
+FGF23	25	Osteosclerotic disorders
+KL	25	Osteosclerotic disorders
+POLR3B	25	Osteosclerotic disorders
+TBXAS1	25	Osteosclerotic disorders
+HPGD	25	Osteosclerotic disorders
+SLCO2A1	25	Osteosclerotic disorders
+OPG	25	Osteosclerotic disorders
+LRP5	25	Osteosclerotic disorders
+SOST	25	Osteosclerotic disorders
+LRP4	25	Osteosclerotic disorders
+SP7	25	Osteosclerotic disorders
+DLX3	25	Osteosclerotic disorders
+MTAP	25	Osteosclerotic disorders
+TMEM53	25	Osteosclerotic disorders
+PTDSS1	25	Osteosclerotic disorders
+ABCC9	25	Osteosclerotic disorders
+SQSTM1	25	Osteosclerotic disorders
+VCP	25	Osteosclerotic disorders
+POLR3GL	25	Osteosclerotic disorders
+COL1A1	26	Osteogenesis imperfecta and bone fragility group
+COL1A2	26	Osteogenesis imperfecta and bone fragility group
+P3H1	26	Osteogenesis imperfecta and bone fragility group
+PPIB	26	Osteogenesis imperfecta and bone fragility group
+IFITM5	26	Osteogenesis imperfecta and bone fragility group
+SERPINF1	26	Osteogenesis imperfecta and bone fragility group
+CRTAP	26	Osteogenesis imperfecta and bone fragility group
+SERPINH1	26	Osteogenesis imperfecta and bone fragility group
+TMEM38B	26	Osteogenesis imperfecta and bone fragility group
+BMP1	26	Osteogenesis imperfecta and bone fragility group
+WNT1	26	Osteogenesis imperfecta and bone fragility group
+CREB3L1	26	Osteogenesis imperfecta and bone fragility group
+SPARC	26	Osteogenesis imperfecta and bone fragility group
+TENT5A	26	Osteogenesis imperfecta and bone fragility group
+MESD	26	Osteogenesis imperfecta and bone fragility group
+KDELR2	26	Osteogenesis imperfecta and bone fragility group
+CCD134	26	Osteogenesis imperfecta and bone fragility group
+FKBP10	26	Osteogenesis imperfecta and bone fragility group
+SP7	26	Osteogenesis imperfecta and bone fragility group
+P4HB	26	Osteogenesis imperfecta and bone fragility group
+SEC24D	26	Osteogenesis imperfecta and bone fragility group
+PLS3	26	Osteogenesis imperfecta and bone fragility group
+MBTPS2	26	Osteogenesis imperfecta and bone fragility group
+LRP5	26	Osteogenesis imperfecta and bone fragility group
+ARHGAP25	26	Osteogenesis imperfecta and bone fragility group
+PLOD2	26	Osteogenesis imperfecta and bone fragility group
+SGMS2	26	Osteogenesis imperfecta and bone fragility group
+XYLT2	26	Osteogenesis imperfecta and bone fragility group
+ANO5	26	Osteogenesis imperfecta and bone fragility group
+COPB2	26	Osteogenesis imperfecta and bone fragility group
+GORAB	26	Osteogenesis imperfecta and bone fragility group
+PYCR1	26	Osteogenesis imperfecta and bone fragility group
+ATP6V0A2	26	Osteogenesis imperfecta and bone fragility group
+POLR3A	26	Osteogenesis imperfecta and bone fragility group
+IFIH1	26	Osteogenesis imperfecta and bone fragility group
+DDX58	26	Osteogenesis imperfecta and bone fragility group
+ALPL	27	Disorders of bone mineralisation
+PHEX	27	Disorders of bone mineralisation
+FGF23	27	Disorders of bone mineralisation
+DMP1	27	Disorders of bone mineralisation
+ENPP1	27	Disorders of bone mineralisation
+SGK3	27	Disorders of bone mineralisation
+CLCN5	27	Disorders of bone mineralisation
+SLC34A3	27	Disorders of bone mineralisation
+CYP27B1	27	Disorders of bone mineralisation
+CYP2R1	27	Disorders of bone mineralisation
+VDR	27	Disorders of bone mineralisation
+CYP3A4	27	Disorders of bone mineralisation
+HNRNPC	27	Disorders of bone mineralisation
+CDC73	27	Disorders of bone mineralisation
+2p14‐p13.3 	27	Disorders of bone mineralisation
+GCM2	27	Disorders of bone mineralisation
+CASR	27	Disorders of bone mineralisation
+TRPV6	27	Disorders of bone mineralisation
+ANKH	27	Disorders of bone mineralisation
+TNFRSF11B	27	Disorders of bone mineralisation
+HRAS	27	Disorders of bone mineralisation
+NRAS	27	Disorders of bone mineralisation
+PTHR1	28	Skeletal disorders of the parathyroid hormone signaling cascade
+SIK3	28	Skeletal disorders of the parathyroid hormone signaling cascade
+PTHLH	28	Skeletal disorders of the parathyroid hormone signaling cascade
+TNFRSF11A	29	Osteolysis group
+LMNA	29	Osteolysis group
+ZMPSTE24	29	Osteolysis group
+MTX2	29	Osteolysis group
+MMP2	29	Osteolysis group
+MMP14	29	Osteolysis group
+NOTCH2	29	Osteolysis group
+MAFB	29	Osteolysis group
+PDGFRB	29	Osteolysis group
+BANF1	29	Osteolysis group
+ASAH1	29	Osteolysis group
+EXT1	30	Disorganized development of skeletal components group
+EXT2	30	Disorganized development of skeletal components group
+SH3BP2	30	Disorganized development of skeletal components group
+GNAS	30	Disorganized development of skeletal components group
+PTPN11	30	Disorganized development of skeletal components group
+FGFR1	30	Disorganized development of skeletal components group
+ACVR1	30	Disorganized development of skeletal components group
+NF1	30	Disorganized development of skeletal components group
+TREM2	30	Disorganized development of skeletal components group
+TYROBP	30	Disorganized development of skeletal components group
+IDH1	30	Disorganized development of skeletal components group
+IDH2	30	Disorganized development of skeletal components group
+ELMO2	30	Disorganized development of skeletal components group
+MET	30	Disorganized development of skeletal components group
+FBN1	31	Overgrowth (tall stature) syndromes and segmental overgrowth
+FBN2	31	Overgrowth (tall stature) syndromes and segmental overgrowth
+TGFBR1	31	Overgrowth (tall stature) syndromes and segmental overgrowth
+TGFBR2	31	Overgrowth (tall stature) syndromes and segmental overgrowth
+TGFB2	31	Overgrowth (tall stature) syndromes and segmental overgrowth
+TGFB3	31	Overgrowth (tall stature) syndromes and segmental overgrowth
+SMAD2	31	Overgrowth (tall stature) syndromes and segmental overgrowth
+SMAD3	31	Overgrowth (tall stature) syndromes and segmental overgrowth
+EZH2	31	Overgrowth (tall stature) syndromes and segmental overgrowth
+EED	31	Overgrowth (tall stature) syndromes and segmental overgrowth
+SUZ12	31	Overgrowth (tall stature) syndromes and segmental overgrowth
+NSD1	31	Overgrowth (tall stature) syndromes and segmental overgrowth
+APC2	31	Overgrowth (tall stature) syndromes and segmental overgrowth
+NFIX	31	Overgrowth (tall stature) syndromes and segmental overgrowth
+SETD2	31	Overgrowth (tall stature) syndromes and segmental overgrowth
+DNMT3A	31	Overgrowth (tall stature) syndromes and segmental overgrowth
+NFIX	31	Overgrowth (tall stature) syndromes and segmental overgrowth
+11p15.5	31	Overgrowth (tall stature) syndromes and segmental overgrowth
+GPC3	31	Overgrowth (tall stature) syndromes and segmental overgrowth
+AKT1	31	Overgrowth (tall stature) syndromes and segmental overgrowth
+AKT2	31	Overgrowth (tall stature) syndromes and segmental overgrowth
+PIK3CA	31	Overgrowth (tall stature) syndromes and segmental overgrowth
+SMS	31	Overgrowth (tall stature) syndromes and segmental overgrowth
+NPPC	31	Overgrowth (tall stature) syndromes and segmental overgrowth
+NPR2	31	Overgrowth (tall stature) syndromes and segmental overgrowth
+NPR3	31	Overgrowth (tall stature) syndromes and segmental overgrowth
+FGFR3	31	Overgrowth (tall stature) syndromes and segmental overgrowth
+PDGFRB	31	Overgrowth (tall stature) syndromes and segmental overgrowth
+ACTB	31	Overgrowth (tall stature) syndromes and segmental overgrowth
+WISP3	32	Genetic inflammatory or rheumatoid‐like osteoarthropathies
+CIAS1	32	Genetic inflammatory or rheumatoid‐like osteoarthropathies
+IL1RN	32	Genetic inflammatory or rheumatoid‐like osteoarthropathies
+LPIN2	32	Genetic inflammatory or rheumatoid‐like osteoarthropathies
+HYAL1	32	Genetic inflammatory or rheumatoid‐like osteoarthropathies
+ANTXR2	32	Genetic inflammatory or rheumatoid‐like osteoarthropathies
+RUNX2	33	Cleidocranial dysplasia and related disorders
+CBFB	33	Cleidocranial dysplasia and related disorders
+RNU12	33	Cleidocranial dysplasia and related disorders
+FIG4	33	Cleidocranial dysplasia and related disorders
+VAC14	33	Cleidocranial dysplasia and related disorders
+MSX2	33	Cleidocranial dysplasia and related disorders
+ALX4	33	Cleidocranial dysplasia and related disorders
+MSX2	33	Cleidocranial dysplasia and related disorders
+FGFR1	34	Syndromes featuring craniosynostosis
+FGFR2	34	Syndromes featuring craniosynostosis
+FGFR3	34	Syndromes featuring craniosynostosis
+POR	34	Syndromes featuring craniosynostosis
+MSX2	34	Syndromes featuring craniosynostosis
+TWIST1	34	Syndromes featuring craniosynostosis
+SKI	34	Syndromes featuring craniosynostosis
+RECQL4	34	Syndromes featuring craniosynostosis
+RAB23	34	Syndromes featuring craniosynostosis
+MEGF8	34	Syndromes featuring craniosynostosis
+TCF12	34	Syndromes featuring craniosynostosis
+SIX1	34	Syndromes featuring craniosynostosis
+ERF	34	Syndromes featuring craniosynostosis
+SMAD6	34	Syndromes featuring craniosynostosis
+RUNX2	34	Syndromes featuring craniosynostosis
+ZIC1	34	Syndromes featuring craniosynostosis
+IL11RA	34	Syndromes featuring craniosynostosis
+IL6ST	34	Syndromes featuring craniosynostosis
+LTBP1	34	Syndromes featuring craniosynostosis
+ASXL1	34	Syndromes featuring craniosynostosis
+CYP26B1	34	Syndromes featuring craniosynostosis
+TRAF7	34	Syndromes featuring craniosynostosis
+SLC25A24	34	Syndromes featuring craniosynostosis
+SMO	34	Syndromes featuring craniosynostosis
+MASP1	34	Syndromes featuring craniosynostosis
+COLEC11	34	Syndromes featuring craniosynostosis
+COLEC10	34	Syndromes featuring craniosynostosis
+ZNF462	34	Syndromes featuring craniosynostosis
+HNRNPK	34	Syndromes featuring craniosynostosis
+TFAP2B	34	Syndromes featuring craniosynostosis
+BCL11B	34	Syndromes featuring craniosynostosis
+TCOF1	35	Craniofacial dysostoses
+POLR1B	35	Craniofacial dysostoses
+POLR1C	35	Craniofacial dysostoses
+POLR1D	35	Craniofacial dysostoses
+POLR1A	35	Craniofacial dysostoses
+EFTUD2	35	Craniofacial dysostoses
+EDNRA	35	Craniofacial dysostoses
+TXNL4A	35	Craniofacial dysostoses
+DHODH	35	Craniofacial dysostoses
+SF3B4	35	Craniofacial dysostoses
+PRRX1	35	Craniofacial dysostoses
+ALX3	35	Craniofacial dysostoses
+ALX4	35	Craniofacial dysostoses
+ALX1	35	Craniofacial dysostoses
+SIX2	35	Craniofacial dysostoses
+TWIST1	35	Craniofacial dysostoses
+EFNB1	35	Craniofacial dysostoses
+ZSWIM6	35	Craniofacial dysostoses
+EIF4A3	35	Craniofacial dysostoses
+GNAI3	35	Craniofacial dysostoses
+PLCB4	35	Craniofacial dysostoses
+EDN1	35	Craniofacial dysostoses
+OFD1	35	Craniofacial dysostoses
+EVC1	35	Craniofacial dysostoses
+EVC2	35	Craniofacial dysostoses
+SPECC1L	35	Craniofacial dysostoses
+SEC23A	35	Craniofacial dysostoses
+FGD1	35	Craniofacial dysostoses
+ACTB	35	Craniofacial dysostoses
+ACTG1	35	Craniofacial dysostoses
+TMCO1	35	Craniofacial dysostoses
+MID1	35	Craniofacial dysostoses
+SMCHD1	35	Craniofacial dysostoses
+MNX1	36	Vertebral and costal dysostoses
+DLL3	36	Vertebral and costal dysostoses
+MESP2	36	Vertebral and costal dysostoses
+LFNG	36	Vertebral and costal dysostoses
+HES7	36	Vertebral and costal dysostoses
+TBX6	36	Vertebral and costal dysostoses
+RIPPLY2	36	Vertebral and costal dysostoses
+MESP2	36	Vertebral and costal dysostoses
+HES7	36	Vertebral and costal dysostoses
+CDK10	36	Vertebral and costal dysostoses
+GDF6	36	Vertebral and costal dysostoses
+MEOX1	36	Vertebral and costal dysostoses
+GDF3	36	Vertebral and costal dysostoses
+MYO18B	36	Vertebral and costal dysostoses
+SNRPB	36	Vertebral and costal dysostoses
+COG1	36	Vertebral and costal dysostoses
+BMPER	36	Vertebral and costal dysostoses
+NKX3‐2	36	Vertebral and costal dysostoses
+HAAO	36	Vertebral and costal dysostoses
+KYNU	36	Vertebral and costal dysostoses
+NADSYN1	36	Vertebral and costal dysostoses
+FANCB	36	Vertebral and costal dysostoses
+ZIC3	36	Vertebral and costal dysostoses
+14q32?	36	Vertebral and costal dysostoses
+TBX4	37	Patellar dysostoses
+LMX1B	37	Patellar dysostoses
+KAT6B	37	Patellar dysostoses
+TBX3	38	Limb hypoplasia—reduction defects group
+TBX5	38	Limb hypoplasia—reduction defects group
+TBX4	38	Limb hypoplasia—reduction defects group
+NIPBL	38	Limb hypoplasia—reduction defects group
+SMC1A	38	Limb hypoplasia—reduction defects group
+SMC3	38	Limb hypoplasia—reduction defects group
+RAD21	38	Limb hypoplasia—reduction defects group
+HDAC8	38	Limb hypoplasia—reduction defects group
+RBM8A	38	Limb hypoplasia—reduction defects group
+THPO	38	Limb hypoplasia—reduction defects group
+SALL4	38	Limb hypoplasia—reduction defects group
+TBX15	38	Limb hypoplasia—reduction defects group
+ESCO2	38	Limb hypoplasia—reduction defects group
+ZRS	38	Limb hypoplasia—reduction defects group
+PITX1	38	Limb hypoplasia—reduction defects group
+LMBR1	38	Limb hypoplasia—reduction defects group
+EN1	38	Limb hypoplasia—reduction defects group
+MAENLI	38	Limb hypoplasia—reduction defects group
+WNT3	38	Limb hypoplasia—reduction defects group
+RSPO2	38	Limb hypoplasia—reduction defects group
+WNT7A	38	Limb hypoplasia—reduction defects group
+RECQL4	38	Limb hypoplasia—reduction defects group
+ANAPC1	38	Limb hypoplasia—reduction defects group
+DNA2	38	Limb hypoplasia—reduction defects group
+ARHGAP31	38	Limb hypoplasia—reduction defects group
+DOCK6	38	Limb hypoplasia—reduction defects group
+RBPJ	38	Limb hypoplasia—reduction defects group
+DLL4	38	Limb hypoplasia—reduction defects group
+EOGT	38	Limb hypoplasia—reduction defects group
+NOTCH1	38	Limb hypoplasia—reduction defects group
+TOP2B	38	Limb hypoplasia—reduction defects group
+TP63	39	Split hand/foot with and without other manifestations
+CDH3	39	Split hand/foot with and without other manifestations
+DLX5	39	Split hand/foot with and without other manifestations
+DLX6	39	Split hand/foot with and without other manifestations
+10q24	39	Split hand/foot with and without other manifestations
+WNT10B	39	Split hand/foot with and without other manifestations
+ZAK	39	Split hand/foot with and without other manifestations
+BHLHA9	39	Split hand/foot with and without other manifestations
+FGFR1	39	Split hand/foot with and without other manifestations
+EPS15L1	39	Split hand/foot with and without other manifestations
+UBA2	39	Split hand/foot with and without other manifestations
+PORCN	39	Split hand/foot with and without other manifestations
+SHH	40	Polydactyly‐Syndactyly‐Triphalangism group
+GLI1	40	Polydactyly‐Syndactyly‐Triphalangism group
+GLI3	40	Polydactyly‐Syndactyly‐Triphalangism group
+SMO	40	Polydactyly‐Syndactyly‐Triphalangism group
+GLI2	40	Polydactyly‐Syndactyly‐Triphalangism group
+FBLN1	40	Polydactyly‐Syndactyly‐Triphalangism group
+HOXD13	40	Polydactyly‐Syndactyly‐Triphalangism group
+KIAA0825	40	Polydactyly‐Syndactyly‐Triphalangism group
+SALL1	40	Polydactyly‐Syndactyly‐Triphalangism group
+FGFR2	40	Polydactyly‐Syndactyly‐Triphalangism group
+FGFR3	40	Polydactyly‐Syndactyly‐Triphalangism group
+FGF10	40	Polydactyly‐Syndactyly‐Triphalangism group
+KIF7	40	Polydactyly‐Syndactyly‐Triphalangism group
+WNT6	40	Polydactyly‐Syndactyly‐Triphalangism group
+LRP4	40	Polydactyly‐Syndactyly‐Triphalangism group
+GREM1	40	Polydactyly‐Syndactyly‐Triphalangism group
+FMN1	40	Polydactyly‐Syndactyly‐Triphalangism group
+BHLHA9	40	Polydactyly‐Syndactyly‐Triphalangism group
+FAM58A	40	Polydactyly‐Syndactyly‐Triphalangism group
+GJA1	40	Polydactyly‐Syndactyly‐Triphalangism group
+SHH	40	Polydactyly‐Syndactyly‐Triphalangism group
+HOXD13	40	Polydactyly‐Syndactyly‐Triphalangism group
+IHH	40	Polydactyly‐Syndactyly‐Triphalangism group
+FGF16	40	Polydactyly‐Syndactyly‐Triphalangism group
+CKAP2L	40	Polydactyly‐Syndactyly‐Triphalangism group
+MAPKAPK5	40	Polydactyly‐Syndactyly‐Triphalangism group
+NOG	41	Defects in joint formation and synostoses
+GDF5	41	Defects in joint formation and synostoses
+FGF9	41	Defects in joint formation and synostoses
+GDF6	41	Defects in joint formation and synostoses
+PITX1	41	Defects in joint formation and synostoses
+GSC	41	Defects in joint formation and synostoses
+HOXA11	41	Defects in joint formation and synostoses
+MECOM	41	Defects in joint formation and synostoses
