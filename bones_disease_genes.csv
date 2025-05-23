@@ -32,8 +32,13 @@ HSPG2	7	Proteoglycan core proteins disorders
 ACAN	7	Proteoglycan core proteins disorders
 BGN	7	Proteoglycan core proteins disorders
 TRPV4	8	TRPV4 disorders
-AD	9	Pseudoachondroplasia and the multiple epiphyseal dysplasias
-AR	9	Pseudoachondroplasia and the multiple epiphyseal dysplasias
+COMP	9	Pseudoachondroplasia and the multiple epiphyseal dysplasias
+MATN3	9	Pseudoachondroplasia and the multiple epiphyseal dysplasias
+CANT1	9	Pseudoachondroplasia and the multiple epiphyseal dysplasias
+COL9A1	9	Pseudoachondroplasia and the multiple epiphyseal dysplasias
+COL9A2	9	Pseudoachondroplasia and the multiple epiphyseal dysplasias
+COL9A3	9	Pseudoachondroplasia and the multiple epiphyseal dysplasias
+RNU4ATAC	9	Pseudoachondroplasia and the multiple epiphyseal dysplasias
 DYNC2H1	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
 IFT80	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
 IFT81	10	Skeletal disorders caused by abnormalities of cilia or ciliary signaling
@@ -406,7 +411,6 @@ EED	31	Overgrowth (tall stature) syndromes and segmental overgrowth
 SUZ12	31	Overgrowth (tall stature) syndromes and segmental overgrowth
 NSD1	31	Overgrowth (tall stature) syndromes and segmental overgrowth
 APC2	31	Overgrowth (tall stature) syndromes and segmental overgrowth
-NFIX	31	Overgrowth (tall stature) syndromes and segmental overgrowth
 SETD2	31	Overgrowth (tall stature) syndromes and segmental overgrowth
 DNMT3A	31	Overgrowth (tall stature) syndromes and segmental overgrowth
 NFIX	31	Overgrowth (tall stature) syndromes and segmental overgrowth
@@ -433,7 +437,6 @@ CBFB	33	Cleidocranial dysplasia and related disorders
 RNU12	33	Cleidocranial dysplasia and related disorders
 FIG4	33	Cleidocranial dysplasia and related disorders
 VAC14	33	Cleidocranial dysplasia and related disorders
-MSX2	33	Cleidocranial dysplasia and related disorders
 ALX4	33	Cleidocranial dysplasia and related disorders
 MSX2	33	Cleidocranial dysplasia and related disorders
 FGFR1	34	Syndromes featuring craniosynostosis
@@ -502,13 +505,11 @@ MID1	35	Craniofacial dysostoses
 SMCHD1	35	Craniofacial dysostoses
 MNX1	36	Vertebral and costal dysostoses
 DLL3	36	Vertebral and costal dysostoses
-MESP2	36	Vertebral and costal dysostoses
 LFNG	36	Vertebral and costal dysostoses
 HES7	36	Vertebral and costal dysostoses
 TBX6	36	Vertebral and costal dysostoses
 RIPPLY2	36	Vertebral and costal dysostoses
 MESP2	36	Vertebral and costal dysostoses
-HES7	36	Vertebral and costal dysostoses
 CDK10	36	Vertebral and costal dysostoses
 GDF6	36	Vertebral and costal dysostoses
 MEOX1	36	Vertebral and costal dysostoses
@@ -576,7 +577,6 @@ GLI3	40	Polydactyly‐Syndactyly‐Triphalangism group
 SMO	40	Polydactyly‐Syndactyly‐Triphalangism group
 GLI2	40	Polydactyly‐Syndactyly‐Triphalangism group
 FBLN1	40	Polydactyly‐Syndactyly‐Triphalangism group
-HOXD13	40	Polydactyly‐Syndactyly‐Triphalangism group
 KIAA0825	40	Polydactyly‐Syndactyly‐Triphalangism group
 SALL1	40	Polydactyly‐Syndactyly‐Triphalangism group
 FGFR2	40	Polydactyly‐Syndactyly‐Triphalangism group
@@ -590,7 +590,6 @@ FMN1	40	Polydactyly‐Syndactyly‐Triphalangism group
 BHLHA9	40	Polydactyly‐Syndactyly‐Triphalangism group
 FAM58A	40	Polydactyly‐Syndactyly‐Triphalangism group
 GJA1	40	Polydactyly‐Syndactyly‐Triphalangism group
-SHH	40	Polydactyly‐Syndactyly‐Triphalangism group
 HOXD13	40	Polydactyly‐Syndactyly‐Triphalangism group
 IHH	40	Polydactyly‐Syndactyly‐Triphalangism group
 FGF16	40	Polydactyly‐Syndactyly‐Triphalangism group
